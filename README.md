@@ -30,4 +30,4 @@ Run the Application:
 python app.py
 Explore API Documentation:
 
-Visit the OpenAPI documentation at http://localhost:3000/api/docs to understand and interact with the available endpoints.
+Visit the OpenAPI documentation at http://localhost:3000/swagger to understand and interact with the available endpoints.
