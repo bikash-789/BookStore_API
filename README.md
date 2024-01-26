@@ -15,7 +15,7 @@ To get started with the BookStore API, follow these simple steps:
 
 Clone the Repository:
 
-git clone https://github.com/your-username/BookStore-API.git
+git clone https://github.com/bikash-789/BookStore-API.git
 Install Dependencies:
 
 
